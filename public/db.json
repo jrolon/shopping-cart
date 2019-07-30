@@ -1,0 +1,94 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "sku": 123,
+      "title": "Vino Rojo Marinilla",
+      "description": "Sphynx Tie Dye Grey",
+      "availableWines": ["T", "XL"],
+      "price": 90.000,
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 2,
+      "sku": 1234,
+      "title": "Vino blanco Retiro",
+      "description": "Danger Knife Grey",
+      "availableWines": ["T"],
+      "price": 85.000,
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 3,
+      "sku": 12345,
+      "title": "Vino Negro Sabana",
+      "description": "White DGK Script",
+      "availableWines": ["T"],
+      "price": 72.000,
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 4,
+      "sku": 123456,
+      "title": "Vino Negro Roma",
+      "description": "Born On The Streets",
+      "availableWines": ["T"],
+      "price": 120.000,
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 5,
+      "sku": 1234567,
+      "title": "Vino Rojo Lndon",
+      "description": "Tso 3D Short Sleeve",
+      "availableWines": ["T"],
+      "price": 102.000,
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 6,
+      "sku": 12345678,
+      "title": "Vino Rojo Ayura",
+      "description": "Man Tie Dye Cinza Grey",
+      "availableWines": ["B"],
+      "price": 49.900,
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 7,
+      "sku": 123456789,
+      "title": "Vino Rojo Rodadero",
+      "description": "1977 Infantil",
+      "availableWines": ["B"],
+      "style": "Preto com listras brancas",
+      "price": 122.500,
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 8,
+      "sku": 1234567890,
+      "title": "Vino Rojo Cuba",
+      "description": "",
+      "availableWines": ["B"],
+      "style": "Azul escuro",
+      "price": 85.700,
+      "isFreeShipping": false
+    },
+    {
+      "id": 9,
+      "sku": 12345678901,
+      "title": "Vino Rojo Sampdoria",
+      "description": "",
+      "availableWines": ["B"],
+      "price": 134.900,
+      "isFreeShipping": true
+    }
+  ]
+}
